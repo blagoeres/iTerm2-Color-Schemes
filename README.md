@@ -1,6 +1,9 @@
 > :warning: :warning: :warning: :exclamation: :exclamation: :exclamation:
 > 
-> **NOTE**: Added [Predawn](https://github.com/jamiewilson/predawn-shell), [Oceanic-Next-iterm](https://github.com/mhartington/oceanic-next-iterm) Color Presets for **iTerm2** & **Terminal.app**
+> **NOTES**
+> 
+> - Added [Predawn](https://github.com/jamiewilson/predawn-shell) Color Presets for **iTerm2** & **Terminal.app**. 
+> - Added [Oceanic-Next-iterm](https://github.com/mhartington/oceanic-next-iterm) Color Preset for **iTerm2**.
 
 
 
