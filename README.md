@@ -4,6 +4,7 @@
 > 
 > - Added [Predawn](https://github.com/jamiewilson/predawn-shell) Color Presets for **iTerm2** & **Terminal.app**. 
 > - Added [Oceanic-Next-iterm](https://github.com/mhartington/oceanic-next-iterm) Color Preset for **iTerm2**.
+> - Added [Ocean-Dark-iterm](https://github.com/fabianperez/ocean-dark-iterm) Color Preset for **iTerm2**.
 
 
 
