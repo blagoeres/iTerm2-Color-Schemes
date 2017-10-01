@@ -6,6 +6,7 @@
 > - Added [Oceanic-Next-iterm](https://github.com/mhartington/oceanic-next-iterm) Color Preset for **iTerm2.app**.
 > - Added [Ocean-Dark-iterm](https://github.com/fabianperez/ocean-dark-iterm) Color Preset for **iTerm2.app**.
 > - Added [Ocean-Dark-terminal](https://github.com/mdo/ocean-terminal) Color Preset for **Terminal.app**.
+> - Added [Honukai-iterm](https://github.com/oskarkrawczyk/honukai-iterm-zsh) Color Preset for **iTerm2.app**.
 
 
 
