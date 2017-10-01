@@ -1,3 +1,9 @@
+> :warning:
+> 
+> **NOTE**: Added [Predawn](https://github.com/jamiewilson/predawn-shell) for **iTerm2** & **Terminal.app**
+
+
+
 # iTerm Color Schemes
 
 - [Intro](#intro)
